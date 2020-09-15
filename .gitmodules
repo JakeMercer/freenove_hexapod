@@ -1,0 +1,3 @@
+[submodule "deps/freenove"]
+	path = deps/freenove
+	url = https://github.com/Freenove/Freenove_Hexapod_Robot_Kit.git
